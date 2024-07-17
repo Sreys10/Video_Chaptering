@@ -22,7 +22,7 @@ This project provides a way to segment YouTube videos into chapters based on the
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/srey/video-chaptering.git
+    git clone https://github.com/Sreys10/Video_Chaptering.git
     cd video-chaptering
     ```
 
@@ -54,7 +54,7 @@ This project provides a way to segment YouTube videos into chapters based on the
 
 ## Code Explanation
 
-### Main Application (`app.py`)
+### Main Application (`main.py`)
 
 - **Extract Video ID:** The `get_video_id` function extracts the video ID from the provided YouTube URL using a regular expression.
 - **Fetch Video Title:** The `get_video_title` function retrieves the video title using the YouTube Data API.
